@@ -1,0 +1,10 @@
+# Generated data and model artifacts for lab 1
+lab-1/factRuEval-2016-master/
+lab-1/factRuEval-2016-master.zip
+lab-1/train_result/
+lab-1/res_model_base/
+
+# Python/Jupyter caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
